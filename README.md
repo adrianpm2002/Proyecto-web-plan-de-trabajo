@@ -1,1 +1,1 @@
-# Proyecto-web-plan-de-trabajo
+Curso Git. Adrian Pascual Martínez
